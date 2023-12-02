@@ -13,7 +13,7 @@ This repository contains a simple yet versatile calculator designed to calculate
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Open the HTML files in your preferred web browser.
+2. Open the HTML file named "form.html" in your preferred web browser.
 3. Input the required values for the chosen shape.
 4. You will get the area and perimeter results.
 
